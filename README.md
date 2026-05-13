@@ -1,6 +1,6 @@
 - 👋 Hi, I’m linnahan
-- 👀 I’m interested in IT ,read book ,travel the wall ,play game
-- 🌱 I’m currently learning python,mysql,linux
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
